@@ -46,6 +46,22 @@
     font-style: italic;
   }
 
+  .bullethistoria{
+    color: #0c51a7;
+  }
+
+  .bulletcasais{
+    color: #E95E10;
+  }
+
+  .bulletfamilia{
+    color: #E5245E;
+  }
+
+  .bulletorçamento{
+    color: #591B98;
+  }
+
   footer {
     color: #333333;
     text-align: center;
