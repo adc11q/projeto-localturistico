@@ -17,12 +17,26 @@
   main section img {
     width: 100%;
     border-radius: 28px;
+    height: 660px;
+    object-fit: cover;
   
   }
 
   #Haedong img {
     margin-top: 64px;
-    height: 660px;
+    height: 350px;
+    object-fit: cover;
+  }
+
+  #Beomeo img {
+    margin-top: 48px;
+    height: 350px;
+    object-fit: cover;
+  }
+
+  #Yongdusan img {
+    margin-top: 48px;
+    height: 350px;
     object-fit: cover;
   }
 
